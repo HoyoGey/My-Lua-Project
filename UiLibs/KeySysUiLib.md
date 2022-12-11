@@ -5,15 +5,15 @@
 <img src="https://media.discordapp.net/attachments/1036352264765448283/1040255090394673212/image.png" width="100%" height="100%">
 
 # Info
-Information on how to use this lib
+Key System Libary Documetation 
 
-pls join on officiall server discord: https://discord.gg/cn7HAncu55 <img src="https://cdn.discordapp.com/emojis/1038875387826020352.webp?size=96&quality=lossless" width="2%" height="2%">
+Join our discord server https://discord.gg/cn7HAncu55 <img src="https://cdn.discordapp.com/emojis/1038875387826020352.webp?size=96&quality=lossless" width="2%" height="2%">
 
 
-## Eng
+## English
 
 ```lua
-local key = loadstring(game:HttpGet("https://raw.githubusercontent.com/HoyoGey/My-Lua-Project/main/UiLibs/KeySysUiLib.lua"))()
+local key = loadstring(game:HttpGet("https://raw.githubusercontent.com/HoyoGey/My-Lua-Project/main/UiLibs/KeySysUiLib.lua%22))()
 key:MakeUI({
   Title = "Ur Title",
   KeyLinkName = "CocoNigga",
